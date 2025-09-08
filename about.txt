@@ -1,0 +1,3 @@
+name: metturu Karthik
+course: bsc(data science)
+GitHub is to store the program to the learing
